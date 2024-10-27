@@ -1,0 +1,75 @@
+text,intent
+# ข้อมูล greeting (เพิ่มความหลากหลาย)
+สวัสดีครับ,greeting
+สวัสดีค่ะ,greeting
+สวัสดี,greeting
+ดีครับ,greeting
+ดีค่ะ,greeting
+hello,greeting
+hi,greeting
+good morning,greeting
+สวัสดีตอนเช้า,greeting
+สวัสดีตอนเย็น,greeting
+ขอสอบถามหน่อย,greeting
+มีคำถาม,greeting
+ต้องการสอบถาม,greeting
+ช่วยแนะนำหน่อย,greeting
+ขอคำแนะนำ,greeting
+
+
+# Price Inquiry
+ราคา iphone 15 pro max,price_inquiry
+iphone 15 pro max ราคา,price_inquiry
+iphone15promax ราคา,price_inquiry
+ราคา iphone15promax,price_inquiry
+iphone 15 pro max 128gb ราคา,price_inquiry
+iphone 15 pro max 256gb ราคา,price_inquiry
+iphone 15 pro max 512gb ราคา,price_inquiry
+iphone 15 pro max 1tb ราคา,price_inquiry
+iphone 15 pro max 256gb ราคาเท่าไร,price_inquiry
+iphone 15 pro max ราคาเท่าไร,price_inquiry
+iphone 15 pro max ราคาเท่าไหร่,price_inquiry
+iphone 15 pro max ราคากี่บาท,price_inquiry
+ราคา iphone 15 pro max เท่าไร,price_inquiry
+ราคา iphone 15 pro max กี่บาท,price_inquiry
+ราคา iphone 15 pro max 256gb เท่าไร,price_inquiry
+iphone15promax 256gb ราคา,price_inquiry
+iphone15promax 256gb ราคาเท่าไร,price_inquiry
+256gb iphone 15 pro max ราคา,price_inquiry
+ขอทราบราคา iphone 15 pro max,price_inquiry
+iphone 15 pro max ขายเท่าไร,price_inquiry
+
+
+# ข้อมูล color_inquiry (เพิ่มรูปแบบประโยค)
+iphone 15 pro max มีสีอะไรบ้าง,color_inquiry
+iphone15promax มีสีอะไรบ้าง,color_inquiry
+iphone 15 pro max สี,color_inquiry
+สี iphone 15 pro max มีอะไรบ้าง,color_inquiry
+iphone 15 pro มีสีอะไรบ้าง,color_inquiry
+iphone15pro สี,color_inquiry
+สี iphone 15 pro,color_inquiry
+iphone 15 มีสีอะไร,color_inquiry
+สีของ iphone 15,color_inquiry
+iphone 15 pro max มีสีไหนบ้าง,color_inquiry
+สีที่มีของ iphone 15,color_inquiry
+iphone รุ่นใหม่มีสีอะไรบ้าง,color_inquiry
+สี iphone รุ่นล่าสุด,color_inquiry
+มีสีอะไรให้เลือกบ้าง,color_inquiry
+อยากรู้สี iphone,color_inquiry
+
+# ข้อมูล storage_inquiry (เพิ่มรูปแบบประโยค)
+iphone 15 pro max มีความจุเท่าไร,storage_inquiry
+iphone15promax มีความจุกี่gb,storage_inquiry
+iphone 15 pro max storage,storage_inquiry
+ความจุ iphone 15 pro max,storage_inquiry
+iphone 15 pro มีความจุเท่าไร,storage_inquiry
+iphone15pro storage,storage_inquiry
+ความจุ iphone 15 pro,storage_inquiry
+iphone 15 มีขนาดความจุเท่าไร,storage_inquiry
+ความจุของ iphone 15 pro max,storage_inquiry
+iphone 15 pro max มีกี่ gb,storage_inquiry
+iphone รุ่นใหม่มีความจุเท่าไร,storage_inquiry
+ขนาดความจุที่มีให้เลือก,storage_inquiry
+storage ที่มีให้เลือก,storage_inquiry
+มีความจุให้เลือกกี่แบบ,storage_inquiry
+ความจุมีกี่ขนาด,storage_inquiry

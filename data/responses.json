@@ -1,0 +1,109 @@
+{
+  "greeting": {
+    "responses": [
+      "สวัสดีครับ/ค่ะ ยินดีต้อนรับสู่ร้าน iStore ครับ",
+      "สวัสดีครับ/ค่ะ มีอะไรให้ช่วยแนะนำไหมครับ"
+    ]
+  },
+  "price_inquiry": {
+    "iPhone_15_Pro_Max": {
+      "128GB": "49,900 บาท",
+      "256GB": "54,900 บาท",
+      "512GB": "64,900 บาท",
+      "1TB": "74,900 บาท"
+    },
+    "iPhone_15_Pro": {
+      "128GB": "44,900 บาท",
+      "256GB": "49,900 บาท",
+      "512GB": "59,900 บาท",
+      "1TB": "69,900 บาท"
+    },
+    "iPhone_15": {
+      "128GB": "32,900 บาท",
+      "256GB": "37,900 บาท",
+      "512GB": "47,900 บาท"
+    }
+  },
+  "color_inquiry": {
+    "iPhone_15_Pro_Max": [
+      "Natural Titanium",
+      "Blue Titanium",
+      "White Titanium",
+      "Black Titanium"
+    ],
+    "iPhone_15_Pro": [
+      "Natural Titanium",
+      "Blue Titanium",
+      "White Titanium",
+      "Black Titanium"
+    ],
+    "iPhone_15": ["Pink", "Yellow", "Green", "Blue", "Black"]
+  },
+  "storage_inquiry": {
+    "iPhone_15_Pro_Max": ["128GB", "256GB", "512GB", "1TB"],
+    "iPhone_15_Pro": ["128GB", "256GB", "512GB", "1TB"],
+    "iPhone_15": ["128GB", "256GB", "512GB"]
+  },
+  "installment_inquiry": {
+    "responses": [
+      "เรามีบริการผ่อนชำระผ่านบัตรเครดิตทุกธนาคาร 0% นาน 10 เดือน",
+      "สามารถผ่อนผ่าน K-XChange Pay ได้นานสูงสุด 24 เดือน"
+    ]
+  },
+  "warranty_inquiry": {
+    "responses": [
+      "รับประกันศูนย์ Apple ประเทศไทย 1 ปีเต็ม",
+      "สามารถซื้อ AppleCare+ เพิ่มเติมได้เพื่อขยายการรับประกันเป็น 2 ปี"
+    ]
+  },
+  "location_inquiry": {
+    "branches": [
+      "สาขาเซ็นทรัลเวิลด์ ชั้น 4",
+      "สาขาสยามพารากอน ชั้น M",
+      "สาขาเซ็นทรัลลาดพร้าว ชั้น 2"
+    ]
+  },
+  "business_hours": {
+    "responses": ["เปิดทุกวัน 10:00-22:00 น.", "เปิดบริการทุกวันไม่มีวันหยุด"]
+  },
+  "delivery_inquiry": {
+    "responses": [
+      "มีบริการจัดส่งฟรีทั่วประเทศ",
+      "จัดส่งด่วนภายใน 24 ชั่วโมงในเขตกรุงเทพฯ"
+    ]
+  },
+  "product_authenticity": {
+    "responses": [
+      "สินค้าทุกชิ้นเป็นสินค้าถูกลิขสิทธิ์จาก Apple ประเทศไทย",
+      "รับประกันของแท้ 100% พร้อมใบรับประกันศูนย์"
+    ]
+  },
+  "price_comparison": {
+    "responses": [
+      "ราคาเท่ากับ Apple Store ทุกรุ่น พร้อมโปรโมชั่นพิเศษจากทางร้าน",
+      "ราคาเป็นไปตามมาตรฐาน Apple ประเทศไทย"
+    ]
+  },
+  "promotion_inquiry": {
+    "current_promotions": [
+      "แถมฟิล์มกระจกและเคสมูลค่า 1,590 บาท",
+      "รับเพิ่ม Gift Voucher มูลค่า 1,000 บาท",
+      "ผ่อน 0% นาน 10 เดือนทุกรุ่น"
+    ]
+  },
+  "trade_in_inquiry": {
+    "responses": [
+      "รับซื้อเครื่องเก่าทุกรุ่น ประเมินราคาฟรี",
+      "มีบริการ Trade-in เครื่องเก่าแลกซื้อเครื่องใหม่ในราคาพิเศษ"
+    ]
+  },
+  "payment_method": {
+    "methods": [
+      "เงินสด",
+      "บัตรเครดิต/เดบิต",
+      "QR Payment: PromptPay",
+      "Mobile Banking",
+      "ผ่อนชำระผ่านบัตรเครดิต 0%"
+    ]
+  }
+}

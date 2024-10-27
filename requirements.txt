@@ -1,0 +1,24 @@
+# Core ML & Deep Learning
+tensorflow==2.13.0
+numpy==1.24.3
+scikit-learn==1.2.2
+pandas==1.5.3
+
+# NLP
+pythainlp==4.0.2
+nltk==3.8.1
+
+# API
+fastapi==0.88.0
+uvicorn==0.23.2
+pydantic==1.10.13
+python-multipart==0.0.6
+
+# Utilities
+python-dotenv==1.0.0
+matplotlib==3.7.1
+requests==2.31.0
+tzdata>=2023.3  # เพิ่ม tzdata
+
+# Dependencies
+typing-extensions==4.5.0
